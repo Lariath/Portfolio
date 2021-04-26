@@ -1,0 +1,23 @@
+.bt {
+  user-appearance: none; /* "navigateur, laisse-moi faire */
+  border: none;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  background: #868e96;
+  border-radius: 8px;
+}
+
+.bt:hover {
+    background-color: #3E2855;
+    text-decoration: none;
+}
+
+.modal-dialog {
+  margin-top: 150px;
+}
+
+.texte {
+  padding: 5%;
+  background-color: #3E2855;
+}
